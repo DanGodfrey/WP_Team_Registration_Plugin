@@ -10,9 +10,9 @@ Team_Registration includes admin tools that can be accessed from the WordPress a
 + Team Size: the maximum number of people that can be on a given team in the tournament
 + Max Number of Teams: the maximum number of teams allowed to enter the tournament
 
-Team_Registration was originally designed to be used for [Battle Royale IV](www.battleroyale.ca), Ottawa's largest LAN Party!
+Team_Registration was originally designed to be used for [Battle Royale IV](http://www.battleroyale.ca), Ottawa's largest LAN Party!
 
-**See it in action:** [Battle Royale Gamer Community](www.community.battleroyale.ca) 
+**See it in action:** [Battle Royale Gamer Community](http://www.community.battleroyale.ca) 
 
 **Developers:** Daniel Godfrey and Jeffrey Arcand
 
@@ -20,20 +20,21 @@ Team_Registration was originally designed to be used for [Battle Royale IV](www.
 
    Copyright 2010  XXXXXXXXXXXXXXXXXXXXXXXX
 
-   This program is free software; you can redistribute it and/or modify
-   it under the terms of the GNU General Public License, version 2, as 
-   published by the Free Software Foundation.
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License, version 2, as 
+published by the Free Software Foundation.
 
-   This program is distributed in the hope that it will be useful,
-   but WITHOUT ANY WARRANTY; without even the implied warranty of
-   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-   GNU General Public License for more details.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
 
-   You should have received a copy of the GNU General Public License
-   along with this program; if not, write to the Free Software
-   Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 
 **Future Plans:**
-	-Bracketing
-	-Open vs Closed Registration
+
++ Bracketing
++ Open vs Closed Registration
 	
